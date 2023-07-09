@@ -1,6 +1,6 @@
 ## Try it on StackBlitz
 
-Click [here](https://stackblitz.com/github/bighead-co-in/pr-next-startup) to open the project on StackBlitz.
+Click [here](https://stackblitz.com/github/bighead-co-in/next-startup) to open the project on StackBlitz.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
